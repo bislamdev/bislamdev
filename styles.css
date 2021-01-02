@@ -146,4 +146,7 @@ body {
   #socIcon p {
     font-size: 1.4rem;
   }
+  .btn {
+    margin: 3rem;
+  }
 }
